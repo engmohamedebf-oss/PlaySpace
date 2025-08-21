@@ -1,0 +1,38 @@
+{
+	"onboarding": {
+		"title1": "Discover Nearby Gaming Rooms",
+		"desc1": "Find PS5, Xbox, and VR lounges near you.",
+		"title2": "Book Instantly",
+		"desc2": "Reserve your slot with a tap.",
+		"title3": "Play With Friends",
+		"desc3": "Invite friends and track bookings.",
+		"next": "Next",
+		"getStarted": "Get Started"
+	},
+	"common": {
+		"searchPlaceholder": "Search location…",
+		"all": "All",
+		"ps5": "PS5",
+		"ps4": "PS4",
+		"xbox": "Xbox",
+		"vr": "VR",
+		"available": "Available",
+		"busy": "Busy",
+		"retry": "Retry",
+		"loading": "Loading…",
+		"error": "Something went wrong",
+		"empty": "No items to display"
+	},
+	"home": {
+		"nearbyRooms": "Nearby Rooms"
+	},
+	"auth": {
+		"login": "Login",
+		"signup": "Sign Up",
+		"email": "Email",
+		"password": "Password",
+		"haveAccount": "Already have an account?",
+		"noAccount": "Don't have an account?",
+		"or": "OR"
+	}
+}

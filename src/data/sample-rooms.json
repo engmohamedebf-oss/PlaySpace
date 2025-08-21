@@ -1,0 +1,24 @@
+[
+	{
+		"id": "r1",
+		"title": "Elite Gaming Zone",
+		"location": "Downtown Mall",
+		"distanceKm": 0.5,
+		"tags": ["PS5", "PS4", "Xbox"],
+		"rating": 4.8,
+		"pricePerHour": 25,
+		"status": "available",
+		"thumbnail": "https://picsum.photos/200/140?random=101"
+	},
+	{
+		"id": "r2",
+		"title": "Neon Arena",
+		"location": "City Center",
+		"distanceKm": 1.2,
+		"tags": ["PS5", "VR"],
+		"rating": 4.6,
+		"pricePerHour": 30,
+		"status": "busy",
+		"thumbnail": "https://picsum.photos/200/140?random=102"
+	}
+]

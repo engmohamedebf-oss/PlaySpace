@@ -1,0 +1,8 @@
+{
+	"flow": [
+		{ "screen": "Onboarding", "next": "AuthLogin" },
+		{ "screen": "AuthLogin", "success": "Main" },
+		{ "screen": "Main", "tabs": ["HomeTab", "BookingsTab", "ProfileTab"] },
+		{ "screen": "HomeTab", "navigate": "RoomDetail" }
+	]
+}
